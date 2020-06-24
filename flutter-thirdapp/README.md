@@ -1,8 +1,10 @@
-# thirdapp
+# Basic Quote App
 
-A new Flutter application.
+An app that displays some quotes which included inside the code. And also there is a button to delete and that's all. Part of the Flutter course by Net Ninja
 
-## Getting Started
+## This is not an original idea
+
+## About Flutter
 
 This project is a starting point for a Flutter application.
 
