@@ -1,8 +1,11 @@
-# ninjaid
+# ID Card Project
 
-A new Flutter application.
+Just a basic Card screen to learn about placements and basic widgets in flutter. Part of the Flutter course by Net Ninja
 
-## Getting Started
+## This is not an original idea
+
+
+## About Flutter
 
 This project is a starting point for a Flutter application.
 
