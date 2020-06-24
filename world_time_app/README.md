@@ -1,8 +1,11 @@
-# worldtimeapp
+# World Time App
 
-A new Flutter application.
+Part of the Flutter course by Net Ninja
 
-## Getting Started
+## This is not an original idea
+
+
+## About Flutter
 
 This project is a starting point for a Flutter application.
 
