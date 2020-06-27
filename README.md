@@ -19,5 +19,5 @@ https://github.com/Solido/awesome-flutter
 
 ### Projects Inside
 
-> World Time App
-  * from The Net Ninja's beginner course
+* World Time App
+  > from The Net Ninja's beginner course
