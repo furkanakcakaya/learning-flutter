@@ -3,7 +3,9 @@ Learning flutter &amp; dart.
 
 ## These are the courses I follow/completed.
 
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+Flutter Tutorial for Beginners [Course Link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+
+Flutter & Firebase App Build [Course Link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
 
 ## Here are some helpful links
 
