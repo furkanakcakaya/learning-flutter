@@ -1,7 +1,7 @@
 # Flutter & dart.
 Learning flutter &amp; dart.
 
-## This/These are the courses I follow/completed.
+## These are the courses I follow/completed.
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
 
